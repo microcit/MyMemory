@@ -9,7 +9,7 @@
 import UIKit
 
 class MemoCell: UITableViewCell {
-
+// git 테스트
     @IBOutlet var subject: UILabel!
     @IBOutlet var contents: UILabel!
     @IBOutlet var regdate: UILabel!
